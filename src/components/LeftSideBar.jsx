@@ -77,7 +77,7 @@ export const LeftSideBar = () => {
       <ListMakerLinks list={moreFromYoutube} />
       <h1 className="px-4 py-2 mt-2 font-bold self-start">About Us</h1>
       <section className="flex mt-4 justify-between mb-2 gap-4 self-start px-4">
-        <Link to="" target="_blank">
+        <Link to="https://www.linkedin.com/in/avhik" target="_blank">
           <FaLinkedin size={20} />
         </Link>
       </section>
